@@ -1,7 +1,5 @@
 /**
  * Tests for snowman-a.
- * 
- * IMPORTANT: Please write more tests - the tests here are only for example and are not complete.
  *
  * AUTHOR: Yuval Moshe
  * 
